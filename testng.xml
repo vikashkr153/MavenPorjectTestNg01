@@ -6,7 +6,7 @@
   <test name="TestChrome">
 
 		<classes>
-			<class name="TestSuite.SwitchTO" />
+			<class name="TestSuite.UAT1" />
 		</classes>
 	</test>
   

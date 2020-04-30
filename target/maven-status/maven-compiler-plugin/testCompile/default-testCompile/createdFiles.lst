@@ -1,1 +1,4 @@
+TestSuite\UAT1.class
 Pages\BaseClass.class
+TestSuite\HelloWorld.class
+TestSuite\SwitchTO.class

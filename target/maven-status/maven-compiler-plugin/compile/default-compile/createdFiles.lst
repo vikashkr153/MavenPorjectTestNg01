@@ -1,1 +1,5 @@
+TestSuite\UAT1.class
 MavenPorjectTestNg01\MavenPorjectTestNg01\App.class
+Pages\BaseClass.class
+TestSuite\HelloWorld.class
+TestSuite\SwitchTO.class
