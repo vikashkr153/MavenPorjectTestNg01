@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28238" started-at="2020-04-29T11:42:31 IST" finished-at="2020-04-29T11:43:00 IST">
+    <groups>
+    </groups>
+    <test name="TestChrome" duration-ms="28238" started-at="2020-04-29T11:42:31 IST" finished-at="2020-04-29T11:43:00 IST">
+      <class name="TestSuite.SwitchTO">
+        <test-method status="PASS" signature="preCondition(java.lang.String)[pri:0, instance:TestSuite.SwitchTO@5a8806ef]" name="preCondition" is-config="true" duration-ms="5199" started-at="2020-04-29T11:42:31 IST" finished-at="2020-04-29T11:42:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:TestSuite.SwitchTO@5a8806ef]" name="testLogin" duration-ms="22140" started-at="2020-04-29T11:42:37 IST" finished-at="2020-04-29T11:42:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestSuite.SwitchTO@5a8806ef]" name="closeBrowser" is-config="true" duration-ms="839" started-at="2020-04-29T11:42:59 IST" finished-at="2020-04-29T11:43:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestSuite.SwitchTO -->
+    </test> <!-- TestChrome -->
+  </suite> <!-- Suite -->
+</testng-results>
